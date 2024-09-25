@@ -9,4 +9,4 @@ Tem a função de atualizar a página de visualização no Zendesk de acordo com
 
 <br />
 
-Acesso em : https://chromewebstore.google.com/detail/zendesk-atualizar-p%C3%A1gina/klfcnkpjeegbeibebgfkmhbdanfbefhm
+Para instalação acesse : https://chromewebstore.google.com/detail/zendesk-atualizar-p%C3%A1gina/klfcnkpjeegbeibebgfkmhbdanfbefhm
